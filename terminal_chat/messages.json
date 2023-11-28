@@ -1,0 +1,74 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "What is 1+5?",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "1 + 5 equals 6.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "add 4 ",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Adding 4 to 6 results in 10.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "multipy by 10",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Multiplying 10 by 10 gives the answer 100.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "take square root ",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "The square root of 100 is 10.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  }
+]
